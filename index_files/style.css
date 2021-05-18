@@ -69,13 +69,13 @@ a:hover {
 }
 
 .intro span.highlight-red {
-	background-color: darkred;
+	background-color: darkgreen;
 	color: white;
 	transition: 0.3s;
 }
 
 .intro span.highlight-red:hover {
-	background-color: red;
+	background-color: green;
 	color: white;
 	transition: 0.3s;
 }
